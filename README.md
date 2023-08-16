@@ -1,57 +1,10 @@
-
-
+# Тестовое Vue 3 composition api + typescript (greensock/vuetify)
+## Для запуска приложения для разработки:
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+git clone https://github.com/GaronCode/test-vue3-nuxt-modal
+cd test-vue3-nuxt-modal/
+npm i
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Дождаться запуска сервера.
+Сервер по умолчанию располагается [localhost:3000](http://localhost:3000/)
