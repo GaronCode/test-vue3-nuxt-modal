@@ -122,8 +122,7 @@ const animateNumbers = () => {
 };
 </script>
 <style lang="scss">
-//$main-color: #010b88;
-$main-color: green;
+$main-color: #010b88;
 $additional-color: #000;
 $rating-color: gold;
 .vue-spinner {
